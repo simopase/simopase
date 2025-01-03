@@ -14,5 +14,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simopase&show_icons=true&locale=en" alt="simopase" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simopase&" alt="simopase" /></p>
